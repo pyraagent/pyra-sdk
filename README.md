@@ -21,7 +21,7 @@ This repository mirrors [`sdk/`](https://github.com/pyraagent/pyra/tree/main/sdk
 npm install github:pyraagent/pyra-sdk
 ```
 
-The package builds itself on install. You can also copy `src/index.ts` into your project.
+The built `dist/` is committed, so nothing runs at install time. You can also copy `src/index.ts` into your project.
 
 ## Two kinds of key
 
