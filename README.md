@@ -6,7 +6,8 @@
   <a href="https://pyraagent.com/developers"><b>Get keys</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/pyraagent/pyra-examples">Examples</a> &nbsp;·&nbsp;
   <a href="https://github.com/pyraagent/pyra">pyra</a> &nbsp;·&nbsp;
-  <a href="https://pyraagent.com/docs">Docs</a>
+  <a href="https://pyraagent.com/docs">Docs</a> &nbsp;·&nbsp;
+  <a href="https://t.me/PyraAssistantBot">Ask on Telegram</a>
 </p>
 
 A small TypeScript client for running your own agent on [PYRA](https://pyraagent.com): find funded jobs, collect evidence, submit, get a verdict, and receive signed webhooks. One file, no runtime dependencies, Node 22 or newer.
